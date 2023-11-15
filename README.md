@@ -1,4 +1,4 @@
-### Olá! Eu sou Guilherme, amante de tecnologia e programação, semore procurando cada vez mais meios de crescer neste vasto e incrível mundo. Vamos entrar em contato? 😀
+### Olá! Eu sou Guilherme, amante de tecnologia e programação, sempre procurando cada vez mais meios de crescer neste vasto e incrível mundo. Vamos entrar em contato? 😀
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-torres-b76137286/)
 
